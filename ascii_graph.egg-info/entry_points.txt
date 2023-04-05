@@ -1,0 +1,2 @@
+[conda]
+ascii-graph = ascii_graph

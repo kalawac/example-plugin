@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: ascii-graph
+Version: 1.0
+Summary: My ascii graph subcommand plugin
+Requires-Python: >=3.7
